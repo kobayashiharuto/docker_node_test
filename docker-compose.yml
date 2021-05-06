@@ -1,5 +1,5 @@
 version: "3.3"
-se
+services:
   sample.app:
     container_name: sample.app
     image: node:8.4.0
